@@ -1,0 +1,25 @@
+h1 {
+    color: red;
+    align-self: center;
+}
+
+h2 {
+    color: purple;
+}
+
+h3 {
+    color: sandybrown;
+}
+
+p {
+    color: black;
+}
+
+div {
+    text-align: center;
+}
+
+
+ol,ul {
+    list-style-position: inside
+}
